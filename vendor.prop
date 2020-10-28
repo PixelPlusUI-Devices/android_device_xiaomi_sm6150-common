@@ -245,3 +245,5 @@ MultitouchSettleInterval=1ms
 MultitouchMinDistance=1px
 TapInterval=1ms
 TapSlop=1px
+=======
+>>>>>>> 4898afd (sm6150-common: Enable zygote critical window)
